@@ -3,10 +3,10 @@
 A template for developers made in Astro. 🧑‍🚀
 
 ```sh
-git clone https://github.com/alamguardin/astrodev.git
+https://github.com/ditinagrawal/ditinagrawal.in.git
 ```
 
-**Demo:** [Preview](https://astrodev-template.netlify.app/)
+**Demo:** [Preview]()
 ![Thumnail](/src/assets/thumbnail.png)
 
 ## 🧞 Commands
