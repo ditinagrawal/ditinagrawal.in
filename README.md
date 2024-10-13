@@ -1,4 +1,4 @@
-# Ditin Agrawal: Template
+# Ditin Agrawal
 
 A template for developers made in Astro. 🧑‍🚀
 
